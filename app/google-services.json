@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307845000264",
+    "project_id": "dquotes-ab3f2",
+    "storage_bucket": "dquotes-ab3f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307845000264:android:3a2f41b05990da9fee3c7d",
+        "android_client_info": {
+          "package_name": "com.example.dquotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZb2BQa292PAhYHOvLZL7txPC5n4H3tM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
